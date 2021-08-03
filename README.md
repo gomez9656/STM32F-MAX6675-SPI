@@ -1,5 +1,4 @@
 # STM32F411RE-MAX6675-SPI
-Examples on how to use STM32F411RE Nucleo board with the MAX6675 sensor using SPI communication protocol.
 
 Examples on how to use STM32F411RE Nucleo Board with the MAX6675 sensor using SPI communication protocol. The first file is an example using the Arduino IDE, making the code a lot simpler. The second one, is using the STM CubeIDE and the HAL layer provided by STM.
 
